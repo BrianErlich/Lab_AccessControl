@@ -1,0 +1,1 @@
+1. Ensure that no random text files (robot.txt) can be accessed via URL.
